@@ -46,7 +46,7 @@ identificar oportunidades de mejora operativa.
 
 !\[Dashboard Ventas](images/Ventas.png)
 
-!\[Dashboard Logística](images/logistica.png)
+!\[Dashboard Logística](images/Logistica.png)
 
 !\[Dashboard Clientes](images/Clientes.png)
 
